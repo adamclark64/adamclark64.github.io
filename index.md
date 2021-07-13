@@ -4,7 +4,8 @@
 
 ### Places you can find more about me:
 
-- [Portfolio](https://adam-clark-resume-eolucb4c4.vercel.app/)
+- [Resume](https://adam-clark-resume-eolucb4c4.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/adam-clark-74839636/)
 - [Github](https://github.com/adamclark64)
 - [Gitlab](https://gitlab.com/adamclark64)
 - [NPM](https://www.npmjs.com/~adamclark64)
